@@ -1,1 +1,1 @@
-# E-commerece-Database-Management-System
+# E-commerce-Database-Management-System
